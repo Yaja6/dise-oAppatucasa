@@ -1,0 +1,7 @@
+{
+  "name": "AppAtuasa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
